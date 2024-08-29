@@ -28,3 +28,19 @@ Key API:
 Value API:
 ![Value-Api-–-Django-REST-framework](https://github.com/user-attachments/assets/2658f201-2f04-4e64-8f03-6d92b6bfa326)
 
+<h3>TOKEN VA REFRESH TOKEN</h3>
+Postman ilovasidan foydalanib
+Userga Token olish:
+![api-token-auth](https://github.com/user-attachments/assets/2b94e399-7e16-4981-ae87-08a415e9679f)
+
+Userga Refresh Token olish:
+![api-token-refresh](https://github.com/user-attachments/assets/31cb9e64-fa14-4d3c-9658-838613b4ca32)
+
+Token orqali productlarni ko'rish:
+![api-token-auth-product](https://github.com/user-attachments/assets/0f062ed3-f2e2-4120-887a-154ee6cea759)
+
+Refresh token orqali productlari ko'rish:
+![api-token-auth-product-acc](https://github.com/user-attachments/assets/f13c3039-ba1a-44b0-8f9a-21245823f31b)
+
+
+
