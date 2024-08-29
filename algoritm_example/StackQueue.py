@@ -1,58 +1,48 @@
-# Python code to demonstrate Implementing
-# stack using list
-stack = ["Amar", "Akbar", "Anthony"]
-stack.append("Ram")
-stack.append("Iqbal")
+# Stack list
+stack = ["Sarvar", "Muslima", "Malika"]
+stack.append("Fayz")
+stack.append("Ziyo")
 print(stack)
 
-# Removes the last item
+# Oxirgi elementni olib tashlash
 print(stack.pop())
-
 print(stack)
-
-# Removes the last item
 print(stack.pop())
-
 print(stack)
 
-# Python code to demonstrate Implementing
-# Queue using list
-queue = ["Amar", "Akbar", "Anthony"]
-queue.append("Ram")
-queue.append("Iqbal")
+# Queue list
+queue = ["Sarvar", "Muslima", "Malika"]
+queue.append("Fayz")
+queue.append("Ziyo")
 print(queue)
 
-# Removes the first item
+# Birinchi elementni olib tashlash
 print(queue.pop(0))
-
 print(queue)
-
-# Removes the first item
 print(queue.pop(0))
-
 print(queue)
 
-# Python code to demonstrate Implementing
-# Stack using deque
+# Deque yordamida Stack
 from collections import deque
-queue = deque(["Ram", "Tarun", "Asif", "John"])
+
+queue = deque(["Sardor", "Sarvar", "Aziz", "Laziz"])
 print(queue)
 queue.append("Akbar")
 print(queue)
-queue.append("Birbal")
+queue.append("Bobur")
 print(queue)
 print(queue.pop())
 print(queue.pop())
 print(queue)
 
-# Python code to demonstrate Implementing
-# Queue using deque
+# Deque yordamida Queue
 from collections import deque
-queue = deque(["Ram", "Tarun", "Asif", "John"])
+
+queue = deque(["Sardor", "Sarvar", "Aziz", "Laziz"])
 print(queue)
 queue.append("Akbar")
 print(queue)
-queue.append("Birbal")
+queue.append("Bobur")
 print(queue)
 print(queue.popleft())
 print(queue.popleft())
