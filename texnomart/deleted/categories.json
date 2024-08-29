@@ -1,0 +1,16 @@
+[
+    {
+        "model": "Category",
+        "id": 18,
+        "title": "Test_2 Category",
+        "slug": "test_2-category",
+        "image": null
+    },
+    {
+        "model": "Category",
+        "id": 19,
+        "title": "Test_3 Category",
+        "slug": "test_3-category",
+        "image": null
+    }
+]

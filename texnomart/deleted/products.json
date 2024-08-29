@@ -1,0 +1,15 @@
+[
+    {
+        "model": "Product",
+        "id": 3,
+        "name": "Iphone 15 Pro",
+        "slug": "iphone-15-pro",
+        "description": "Iphone 15 Pro",
+        "price": 12000000.0,
+        "discount": 10,
+        "group": 1,
+        "is_liked": [
+            2
+        ]
+    }
+]
